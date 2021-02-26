@@ -1,0 +1,3289 @@
+{
+	"statuses": [
+		{
+			"created_at": "Wed May 27 01:41:09 +0000 2020",
+			"id": 1265457985289170944,
+			"id_str": "1265457985289170944",
+			"full_text": "BJz during heat waves. #notanad #sponserme @boosterjuice \n.\n.\nFOR ALL YOUR QUARANTINE CUT NEEDS 💈 ✂️ CONTACT @VincentXaviertv OH YOU THOUGHT HE JUST RAPPED?? 😂🙏🏻 THAT’S CUTE.\n.\nNEW MUSIC SOON.\nJUNE 5th THRU TINTS… https:\/\/t.co\/vP7NWgVtAo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "notanad",
+						"indices": [
+							23,
+							31
+						]
+					},
+					{
+						"text": "sponserme",
+						"indices": [
+							32,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "boosterjuice",
+						"name": "Booster Juice",
+						"id": 275249591,
+						"id_str": "275249591",
+						"indices": [
+							43,
+							56
+						]
+					},
+					{
+						"screen_name": "VincentXaviertv",
+						"name": "Vincent Xavier",
+						"id": 1222742403746029568,
+						"id_str": "1222742403746029568",
+						"indices": [
+							109,
+							125
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/vP7NWgVtAo",
+						"expanded_url": "https:\/\/www.instagram.com\/p\/CArFhjqnW-y\/?igshid=1gnfexhihtxsr",
+						"display_url": "instagram.com\/p\/CArFhjqnW-y\/…",
+						"indices": [
+							214,
+							237
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/instagram.com\" rel=\"nofollow\">Instagram<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 467547106,
+				"id_str": "467547106",
+				"name": "StillWill",
+				"screen_name": "fckfowler",
+				"location": "disclosed",
+				"description": "your favourite SoundCloud rapper. based out of Cambridge, Ontario. Lonely Boy Records. God 1st #lonelyboy #blueroses💙🌹https:\/\/t.co\/zVMrbYEzAM",
+				"url": "https:\/\/t.co\/Xt5FGQMgf8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/Xt5FGQMgf8",
+								"expanded_url": "https:\/\/distrokid.com\/hyperfollow\/stillwill\/keep-me-in-mind-feat-vincent-xavier",
+								"display_url": "distrokid.com\/hyperfollow\/st…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/zVMrbYEzAM",
+								"expanded_url": "https:\/\/soundcloud.com\/stillwillhenry",
+								"display_url": "soundcloud.com\/stillwillhenry",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 356,
+				"friends_count": 192,
+				"listed_count": 1,
+				"created_at": "Wed Jan 18 15:51:30 +0000 2012",
+				"favourites_count": 2232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14043,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1229836437039845376\/cHbxZmY8_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1229836437039845376\/cHbxZmY8_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/467547106\/1582050784",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					43.3581,
+					-80.3114
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					-80.3114,
+					43.3581
+				]
+			},
+			"place": {
+				"id": "353c22ab906632de",
+				"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/353c22ab906632de.json",
+				"place_type": "city",
+				"name": "Cambridge",
+				"full_name": "Cambridge, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.413946,
+								43.332161
+							],
+							[
+								-80.251265,
+								43.332161
+							],
+							[
+								-80.251265,
+								43.4720567
+							],
+							[
+								-80.413946,
+								43.4720567
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 23:39:14 +0000 2020",
+			"id": 1265427302932008961,
+			"id_str": "1265427302932008961",
+			"full_text": "@jannarden It’s okay @jannarden , I got it. :) I think too many people are in totally understandable quarantine moods these days and need to remember there is a brighter side to life. A good dose of playful sarcasm on a heavy topic or story is sometimes needed to help digest the content. 👏🏻",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				291
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jannarden",
+						"name": "jann arden",
+						"id": 22956018,
+						"id_str": "22956018",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "jannarden",
+						"name": "jann arden",
+						"id": 22956018,
+						"id_str": "22956018",
+						"indices": [
+							21,
+							31
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": 1265395429400670209,
+			"in_reply_to_status_id_str": "1265395429400670209",
+			"in_reply_to_user_id": 22956018,
+			"in_reply_to_user_id_str": "22956018",
+			"in_reply_to_screen_name": "jannarden",
+			"user": {
+				"id": 628064339,
+				"id_str": "628064339",
+				"name": "carolyn mcleod",
+				"screen_name": "mcleod_carolyn",
+				"location": "Guelph",
+				"description": "owner Creative Spark Workshops, College Instructor, graphic designer, marketing and design consultant",
+				"url": "https:\/\/t.co\/ukUCggdtCh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/ukUCggdtCh",
+								"expanded_url": "http:\/\/www.creativesparkworkshops.com",
+								"display_url": "creativesparkworkshops.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 303,
+				"listed_count": 10,
+				"created_at": "Fri Jul 06 05:16:50 +0000 2012",
+				"favourites_count": 1029,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 691,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292631",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2400364583\/jzodmx4799n92pybofdy_normal.jpeg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2400364583\/jzodmx4799n92pybofdy_normal.jpeg",
+				"profile_link_color": "5F1A51",
+				"profile_sidebar_border_color": "D2F2F1",
+				"profile_sidebar_fill_color": "9EBDC0",
+				"profile_text_color": "862F64",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 23:23:22 +0000 2020",
+			"id": 1265423312554950665,
+			"id_str": "1265423312554950665",
+			"full_text": "@ByMHarrington Hoping Canada stands firm and does not waive the 14 day quarantine period for Gary's misguided Covid Cup.",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ByMHarrington",
+						"name": "Mike Harrington",
+						"id": 44473996,
+						"id_str": "44473996",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+			"in_reply_to_status_id": 1265404917252063233,
+			"in_reply_to_status_id_str": "1265404917252063233",
+			"in_reply_to_user_id": 44473996,
+			"in_reply_to_user_id_str": "44473996",
+			"in_reply_to_screen_name": "ByMHarrington",
+			"user": {
+				"id": 328255895,
+				"id_str": "328255895",
+				"name": "james moon",
+				"screen_name": "xiaomoon",
+				"location": "guelph",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3,
+				"friends_count": 68,
+				"listed_count": 0,
+				"created_at": "Sun Jul 03 01:28:22 +0000 2011",
+				"favourites_count": 358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+				"profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/328255895\/1523664879",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "2740624a2d391c5c",
+				"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/2740624a2d391c5c.json",
+				"place_type": "city",
+				"name": "Guelph",
+				"full_name": "Guelph, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.326879,
+								43.473802
+							],
+							[
+								-80.153377,
+								43.473802
+							],
+							[
+								-80.153377,
+								43.594596
+							],
+							[
+								-80.326879,
+								43.594596
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 22:43:25 +0000 2020",
+			"id": 1265413258057523202,
+			"id_str": "1265413258057523202",
+			"full_text": "I really feel for all the immune compromised families who, even when  quarantine is lifted will not be able to resume normal life",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": 1265412956642258944,
+			"in_reply_to_status_id_str": "1265412956642258944",
+			"in_reply_to_user_id": 1175047133134807041,
+			"in_reply_to_user_id_str": "1175047133134807041",
+			"in_reply_to_screen_name": "MaddyMilthorpe",
+			"user": {
+				"id": 1175047133134807041,
+				"id_str": "1175047133134807041",
+				"name": "big mab",
+				"screen_name": "MaddyMilthorpe",
+				"location": "Guelph, Ontario",
+				"description": "doin it for my homies in Bruges",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 59,
+				"listed_count": 0,
+				"created_at": "Fri Sep 20 14:00:54 +0000 2019",
+				"favourites_count": 874,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 159,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1196858346910957573\/w71PMT4u_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1196858346910957573\/w71PMT4u_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1175047133134807041\/1572379527",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 21:15:34 +0000 2020",
+			"id": 1265391148715192321,
+			"id_str": "1265391148715192321",
+			"full_text": "I’ve been using quarantine time to read more books. I know I’m late on here for book reviews, but ‘Creativity, Inc.’ is easily my favourite quarantine books thus far. 👍 \n\nGreat story telling, fun insight into the founding of @Pixar, and very inspiring.\n\nhttps:\/\/t.co\/rzDAmknDp0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Pixar",
+						"name": "Pixar",
+						"id": 43192807,
+						"id_str": "43192807",
+						"indices": [
+							225,
+							231
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/rzDAmknDp0",
+						"expanded_url": "https:\/\/www.goodreads.com\/book\/show\/18077903-creativity-inc",
+						"display_url": "goodreads.com\/book\/show\/1807…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1251512665144524802,
+				"id_str": "1251512665144524802",
+				"name": "Marc Johnson",
+				"screen_name": "Johnson_MarcusE",
+				"location": "Guelph, Ontario",
+				"description": "Biochemistry at the University of Guelph. Vice President of BiocSA. Hobbyist photographer. He\/Him.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18,
+				"friends_count": 171,
+				"listed_count": 0,
+				"created_at": "Sat Apr 18 14:07:52 +0000 2020",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1251520295489470467\/1qo_u9ud_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1251520295489470467\/1qo_u9ud_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1251512665144524802\/1588189541",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 17:48:55 +0000 2020",
+			"id": 1265339145347620866,
+			"id_str": "1265339145347620866",
+			"full_text": "After quarantine I’m literally never turning down plans to stay home again! I miss doing things!!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 954539551577526272,
+				"id_str": "954539551577526272",
+				"name": "✨🍓Gay Libra 🍓✨",
+				"screen_name": "lavender_gay",
+				"location": "Guelph, Ontario",
+				"description": "Literally all I ever want to talk about is #DnD (they\/them)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105,
+				"friends_count": 291,
+				"listed_count": 1,
+				"created_at": "Sat Jan 20 02:22:18 +0000 2018",
+				"favourites_count": 10254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6187,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1238669283791683589\/dMyIzFom_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1238669283791683589\/dMyIzFom_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/954539551577526272\/1545238854",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 16:31:36 +0000 2020",
+			"id": 1265319688176840713,
+			"id_str": "1265319688176840713",
+			"full_text": "Might still be in quarantine mode but imma always shoot my shot",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 519064319,
+				"id_str": "519064319",
+				"name": "the lorax",
+				"screen_name": "mcsquizzey",
+				"location": "Guelph, Ontario",
+				"description": "I speak for the trees and the trees say send nudes UoG Aggie she\/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 345,
+				"friends_count": 298,
+				"listed_count": 2,
+				"created_at": "Fri Mar 09 01:31:30 +0000 2012",
+				"favourites_count": 44931,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10370,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1265319507612045316\/OG6j9U6r_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1265319507612045316\/OG6j9U6r_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/519064319\/1549250711",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 16:06:04 +0000 2020",
+			"id": 1265313261865631745,
+			"id_str": "1265313261865631745",
+			"full_text": "RT @iancmclaren: Shout out to anyone who's used quarantine living for self improvement. I personally feel stuck in a pretty deep rut.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iancmclaren",
+						"name": "Ian McLaren",
+						"id": 52083030,
+						"id_str": "52083030",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4890499798,
+				"id_str": "4890499798",
+				"name": "Welland",
+				"screen_name": "oem_repair",
+				"location": "New York, USA ",
+				"description": "https:\/\/t.co\/5NBiSvLDb3\n\nhttps:\/\/t.co\/S0TYduEU2I\n\nhttps:\/\/t.co\/QsFx9LZbwl",
+				"url": "https:\/\/t.co\/dxDXP3WRtD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/dxDXP3WRtD",
+								"expanded_url": "https:\/\/www.168motive.com\/",
+								"display_url": "168motive.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/5NBiSvLDb3",
+								"expanded_url": "http:\/\/mercedes-benz-worldzz.blogspot.com",
+								"display_url": "mercedes-benz-worldzz.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https:\/\/t.co\/S0TYduEU2I",
+								"expanded_url": "http:\/\/porsche-panamera-turbo-worldzzz.blogspot.com",
+								"display_url": "…-panamera-turbo-worldzzz.blogspot.com",
+								"indices": [
+									25,
+									48
+								]
+							},
+							{
+								"url": "https:\/\/t.co\/QsFx9LZbwl",
+								"expanded_url": "http:\/\/jaguartechnicalworld.blogspot.com",
+								"display_url": "jaguartechnicalworld.blogspot.com",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10173,
+				"friends_count": 9846,
+				"listed_count": 15,
+				"created_at": "Tue Feb 09 01:41:31 +0000 2016",
+				"favourites_count": 101275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 137574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1239054063049850882\/CKRPLCNu_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1239054063049850882\/CKRPLCNu_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4890499798\/1584248420",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue May 26 16:04:11 +0000 2020",
+				"id": 1265312786474840069,
+				"id_str": "1265312786474840069",
+				"full_text": "Shout out to anyone who's used quarantine living for self improvement. I personally feel stuck in a pretty deep rut.",
+				"truncated": false,
+				"display_text_range": [
+					0,
+					116
+				],
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 52083030,
+					"id_str": "52083030",
+					"name": "Ian McLaren",
+					"screen_name": "iancmclaren",
+					"location": "Guelph, ON",
+					"description": "Host of Locked On Boston Bruins, a daily #NHLBruins podcast (@LO_BostonBruins) • Freelance hockey writer • Digital marketing + SEO • MTh (Aberdeen) • Dad jokes",
+					"url": "https:\/\/t.co\/9HMsZVuRvu",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https:\/\/t.co\/9HMsZVuRvu",
+									"expanded_url": "https:\/\/cms.megaphone.fm\/channel\/locked-on-bruins-boston",
+									"display_url": "cms.megaphone.fm\/channel\/locked…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6848,
+					"friends_count": 752,
+					"listed_count": 271,
+					"created_at": "Mon Jun 29 15:11:21 +0000 2009",
+					"favourites_count": 18589,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 2553,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+					"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1260587045455564802\/DqKTXWba_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1260587045455564802\/DqKTXWba_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/52083030\/1516401784",
+					"profile_link_color": "3A9BCC",
+					"profile_sidebar_border_color": "A3A1A3",
+					"profile_sidebar_fill_color": "242424",
+					"profile_text_color": "999999",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": null,
+					"follow_request_sent": null,
+					"notifications": null,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 18,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 16:04:11 +0000 2020",
+			"id": 1265312786474840069,
+			"id_str": "1265312786474840069",
+			"full_text": "Shout out to anyone who's used quarantine living for self improvement. I personally feel stuck in a pretty deep rut.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52083030,
+				"id_str": "52083030",
+				"name": "Ian McLaren",
+				"screen_name": "iancmclaren",
+				"location": "Guelph, ON",
+				"description": "Host of Locked On Boston Bruins, a daily #NHLBruins podcast (@LO_BostonBruins) • Freelance hockey writer • Digital marketing + SEO • MTh (Aberdeen) • Dad jokes",
+				"url": "https:\/\/t.co\/9HMsZVuRvu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/9HMsZVuRvu",
+								"expanded_url": "https:\/\/cms.megaphone.fm\/channel\/locked-on-bruins-boston",
+								"display_url": "cms.megaphone.fm\/channel\/locked…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6848,
+				"friends_count": 752,
+				"listed_count": 271,
+				"created_at": "Mon Jun 29 15:11:21 +0000 2009",
+				"favourites_count": 18589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2553,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1260587045455564802\/DqKTXWba_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1260587045455564802\/DqKTXWba_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/52083030\/1516401784",
+				"profile_link_color": "3A9BCC",
+				"profile_sidebar_border_color": "A3A1A3",
+				"profile_sidebar_fill_color": "242424",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 15:51:00 +0000 2020",
+			"id": 1265309468516024324,
+			"id_str": "1265309468516024324",
+			"full_text": "Claude Schryer is a Franco Ontarian sound and media artist, arts administrator, cultural worker and strategic advisor at Canada Council for the Arts. “Microcosm,” his submission to artseverywhere on the theme of quarantine can be found here:   https:\/\/t.co\/L5CjQCFpYP #quarantine https:\/\/t.co\/er9Hj5UXbY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "quarantine",
+						"indices": [
+							268,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/L5CjQCFpYP",
+						"expanded_url": "https:\/\/artseverywhere.ca\/2020\/05\/22\/microcosm-inside-my-room\/",
+						"display_url": "artseverywhere.ca\/2020\/05\/22\/mic…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1265309462874804227,
+						"id_str": "1265309462874804227",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY9IQKmX0AMxUQZ.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY9IQKmX0AMxUQZ.jpg",
+						"url": "https:\/\/t.co\/er9Hj5UXbY",
+						"display_url": "pic.twitter.com\/er9Hj5UXbY",
+						"expanded_url": "https:\/\/twitter.com\/Arts_Everywhere\/status\/1265309468516024324\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1265309462874804227,
+						"id_str": "1265309462874804227",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY9IQKmX0AMxUQZ.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY9IQKmX0AMxUQZ.jpg",
+						"url": "https:\/\/t.co\/er9Hj5UXbY",
+						"display_url": "pic.twitter.com\/er9Hj5UXbY",
+						"expanded_url": "https:\/\/twitter.com\/Arts_Everywhere\/status\/1265309468516024324\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\">Twitter for iPad<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4748116223,
+				"id_str": "4748116223",
+				"name": "ArtsEverywhere",
+				"screen_name": "Arts_Everywhere",
+				"location": "Guelph, Ontario",
+				"description": "artsEverywhere.ca is a platform for artistic experimentation and exploration of the fault lines of modern society. A program of @MusagetesF.",
+				"url": "https:\/\/t.co\/FnD6ILY9QW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/FnD6ILY9QW",
+								"expanded_url": "http:\/\/artseverywhere.ca",
+								"display_url": "artseverywhere.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 598,
+				"friends_count": 323,
+				"listed_count": 23,
+				"created_at": "Fri Jan 08 21:29:20 +0000 2016",
+				"favourites_count": 894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1311,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/770698987196252161\/DrTYsozC_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/770698987196252161\/DrTYsozC_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4748116223\/1456181455",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 15:02:53 +0000 2020",
+			"id": 1265297362462715909,
+			"id_str": "1265297362462715909",
+			"full_text": "Some of the local beers we’ve been lucky enough to keep enjoying during quarantine! Thanks muskokabrewery @brickbrewery and @shortfingerbeer. 🍻🤤🥴\n.\n.\n.\n.\n.\n\n#supportlocal #datenight #craftbeer #strongbeer… https:\/\/t.co\/0YzNmPYafk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "supportlocal",
+						"indices": [
+							157,
+							170
+						]
+					},
+					{
+						"text": "datenight",
+						"indices": [
+							171,
+							181
+						]
+					},
+					{
+						"text": "craftbeer",
+						"indices": [
+							182,
+							192
+						]
+					},
+					{
+						"text": "strongbeer",
+						"indices": [
+							193,
+							204
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shortfingerbeer",
+						"name": "Short Finger Brewing",
+						"id": 2957259507,
+						"id_str": "2957259507",
+						"indices": [
+							124,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/0YzNmPYafk",
+						"expanded_url": "https:\/\/www.instagram.com\/p\/CAp8e2uJWpg\/?igshid=y8um1sd64kvb",
+						"display_url": "instagram.com\/p\/CAp8e2uJWpg\/…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/instagram.com\" rel=\"nofollow\">Instagram<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55955966,
+				"id_str": "55955966",
+				"name": "nicole baldwin",
+				"screen_name": "nicolebaldwin29",
+				"location": "Canada",
+				"description": "just putting my two cents in. YouTuber and blogger! Check out my links below! 🤟🏼✌🏻",
+				"url": "https:\/\/t.co\/ZArGUJWKmO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/ZArGUJWKmO",
+								"expanded_url": "https:\/\/linktr.ee\/nicklesthename",
+								"display_url": "linktr.ee\/nicklesthename",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 152,
+				"friends_count": 89,
+				"listed_count": 10,
+				"created_at": "Sat Jul 11 23:07:25 +0000 2009",
+				"favourites_count": 2760,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14019,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/925729870230855680\/KWSSJedb_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/925729870230855680\/KWSSJedb_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/55955966\/1536092072",
+				"profile_link_color": "5097DC",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					43.3581,
+					-80.3114
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					-80.3114,
+					43.3581
+				]
+			},
+			"place": {
+				"id": "353c22ab906632de",
+				"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/353c22ab906632de.json",
+				"place_type": "city",
+				"name": "Cambridge",
+				"full_name": "Cambridge, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.413946,
+								43.332161
+							],
+							[
+								-80.251265,
+								43.332161
+							],
+							[
+								-80.251265,
+								43.4720567
+							],
+							[
+								-80.413946,
+								43.4720567
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 14:40:08 +0000 2020",
+			"id": 1265291634746458113,
+			"id_str": "1265291634746458113",
+			"full_text": "I’ll be using these money-saving tips to help me save more both now and in the future. Check them out: https:\/\/t.co\/ruzRLjUMlj https:\/\/t.co\/JeU5YWsZJ2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/ruzRLjUMlj",
+						"expanded_url": "http:\/\/ow.ly\/7qtI102fIje",
+						"display_url": "ow.ly\/7qtI102fIje",
+						"indices": [
+							103,
+							126
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1265291630912966656,
+						"id_str": "1265291630912966656",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY84CNXXkAAhHyv.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY84CNXXkAAhHyv.jpg",
+						"url": "https:\/\/t.co\/JeU5YWsZJ2",
+						"display_url": "pic.twitter.com\/JeU5YWsZJ2",
+						"expanded_url": "https:\/\/twitter.com\/SteveKennedyF55\/status\/1265291634746458113\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1265291630912966656,
+						"id_str": "1265291630912966656",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY84CNXXkAAhHyv.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY84CNXXkAAhHyv.jpg",
+						"url": "https:\/\/t.co\/JeU5YWsZJ2",
+						"display_url": "pic.twitter.com\/JeU5YWsZJ2",
+						"expanded_url": "https:\/\/twitter.com\/SteveKennedyF55\/status\/1265291634746458113\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https:\/\/www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 342695055,
+				"id_str": "342695055",
+				"name": "Steve Kennedy",
+				"screen_name": "SteveKennedyF55",
+				"location": "Guelph",
+				"description": "Driven to innovate, improve and inspire while focused on making a measurable, meaningful difference everyday!",
+				"url": "https:\/\/t.co\/mMUGU5eq51",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/mMUGU5eq51",
+								"expanded_url": "http:\/\/www.stevekennedy.net",
+								"display_url": "stevekennedy.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264,
+				"friends_count": 545,
+				"listed_count": 11,
+				"created_at": "Tue Jul 26 12:48:45 +0000 2011",
+				"favourites_count": 236,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3535,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme8\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme8\/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/604633242663309312\/C8r_0Nm7_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/604633242663309312\/C8r_0Nm7_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/342695055\/1432990775",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 14:07:05 +0000 2020",
+			"id": 1265283316862910464,
+			"id_str": "1265283316862910464",
+			"full_text": "A super cool player perspective by Andi Sullivan, United States Women's National Team player, who wrote an honest and inspiring article about what life is like in quarantine. To read the full story visit https:\/\/t.co\/MrEXivvMSp. #UnitedinSports #UnitedTogether https:\/\/t.co\/CqGthkEFmk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UnitedinSports",
+						"indices": [
+							229,
+							244
+						]
+					},
+					{
+						"text": "UnitedTogether",
+						"indices": [
+							245,
+							260
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/MrEXivvMSp",
+						"expanded_url": "https:\/\/buff.ly\/2WU7yYJ",
+						"display_url": "buff.ly\/2WU7yYJ",
+						"indices": [
+							204,
+							227
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1265283312383336453,
+						"id_str": "1265283312383336453",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY8weAbWoAUyYh7.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY8weAbWoAUyYh7.jpg",
+						"url": "https:\/\/t.co\/CqGthkEFmk",
+						"display_url": "pic.twitter.com\/CqGthkEFmk",
+						"expanded_url": "https:\/\/twitter.com\/CambridgeSoccer\/status\/1265283316862910464\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1265283312383336453,
+						"id_str": "1265283312383336453",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY8weAbWoAUyYh7.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY8weAbWoAUyYh7.jpg",
+						"url": "https:\/\/t.co\/CqGthkEFmk",
+						"display_url": "pic.twitter.com\/CqGthkEFmk",
+						"expanded_url": "https:\/\/twitter.com\/CambridgeSoccer\/status\/1265283316862910464\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1265283312857296902,
+						"id_str": "1265283312857296902",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY8weCMWsAYXK_g.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY8weCMWsAYXK_g.jpg",
+						"url": "https:\/\/t.co\/CqGthkEFmk",
+						"display_url": "pic.twitter.com\/CqGthkEFmk",
+						"expanded_url": "https:\/\/twitter.com\/CambridgeSoccer\/status\/1265283316862910464\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1265283313327104000,
+						"id_str": "1265283313327104000",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY8weD8XYAAvgpy.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY8weD8XYAAvgpy.jpg",
+						"url": "https:\/\/t.co\/CqGthkEFmk",
+						"display_url": "pic.twitter.com\/CqGthkEFmk",
+						"expanded_url": "https:\/\/twitter.com\/CambridgeSoccer\/status\/1265283316862910464\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1265283313314521090,
+						"id_str": "1265283313314521090",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EY8weD5XYAIbLCs.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EY8weD5XYAIbLCs.jpg",
+						"url": "https:\/\/t.co\/CqGthkEFmk",
+						"display_url": "pic.twitter.com\/CqGthkEFmk",
+						"expanded_url": "https:\/\/twitter.com\/CambridgeSoccer\/status\/1265283316862910464\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https:\/\/buffer.com\" rel=\"nofollow\">Buffer<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 501018249,
+				"id_str": "501018249",
+				"name": "CambridgeYouthSoccer",
+				"screen_name": "CambridgeSoccer",
+				"location": "Cambridge, Ontario",
+				"description": "Youth ⚽️ programs in Cambridge, Ontario 🇨🇦. Operate the Com Dev Indoor Soccer Park.",
+				"url": "http:\/\/t.co\/Bs6csgfa68",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http:\/\/t.co\/Bs6csgfa68",
+								"expanded_url": "http:\/\/www.cambridgesoccer.ca",
+								"display_url": "cambridgesoccer.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1510,
+				"friends_count": 409,
+				"listed_count": 26,
+				"created_at": "Thu Feb 23 18:14:59 +0000 2012",
+				"favourites_count": 2431,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2530,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/859087339116691456\/jM-fesCM_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/859087339116691456\/jM-fesCM_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/501018249\/1536803518",
+				"profile_link_color": "E71515",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 05:21:16 +0000 2020",
+			"id": 1265150993521467392,
+			"id_str": "1265150993521467392",
+			"full_text": "RT @bronwynnewilton: So this happened during our quarantine:                                        Me: “I wish we had a spot to grow veggi…",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bronwynnewilton",
+						"name": "Bronwynne Wilton",
+						"id": 29748981,
+						"id_str": "29748981",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30468318,
+				"id_str": "30468318",
+				"name": "Stephie",
+				"screen_name": "notorious_fish",
+				"location": "Seattle",
+				"description": "💕36\/she\/her💕 Fannibal, MDZS\/CQL\/TGCF obsessed and lover of YoI! Addicted to Death Stranding, ACNH, Bioshock, Fallout 4, Skyrim, Last of Us, Red Dead... (NSFW)",
+				"url": "https:\/\/t.co\/u5VxOOjwqn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/u5VxOOjwqn",
+								"expanded_url": "http:\/\/notoriousfish.tumblr.com\/",
+								"display_url": "notoriousfish.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117,
+				"friends_count": 1030,
+				"listed_count": 3,
+				"created_at": "Sat Apr 11 15:47:57 +0000 2009",
+				"favourites_count": 26334,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/925498586229481472\/W1UHUeOY_normal.png",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/925498586229481472\/W1UHUeOY_normal.png",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/30468318\/1480674375",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun May 17 20:28:55 +0000 2020",
+				"id": 1262117919623913474,
+				"id_str": "1262117919623913474",
+				"full_text": "So this happened during our quarantine:                                        Me: “I wish we had a spot to grow veggies, but between the dog and the bunnies, there’s really no point”.                               Hubby: “hold my beer”. https:\/\/t.co\/loftKNoJva",
+				"truncated": false,
+				"display_text_range": [
+					0,
+					237
+				],
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1262117908932673539,
+							"id_str": "1262117908932673539",
+							"indices": [
+								238,
+								261
+							],
+							"media_url": "http:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"media_url_https": "https:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"url": "https:\/\/t.co\/loftKNoJva",
+							"display_url": "pic.twitter.com\/loftKNoJva",
+							"expanded_url": "https:\/\/twitter.com\/bronwynnewilton\/status\/1262117919623913474\/photo\/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 563,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 994,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1696,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1262117908932673539,
+							"id_str": "1262117908932673539",
+							"indices": [
+								238,
+								261
+							],
+							"media_url": "http:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"media_url_https": "https:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"url": "https:\/\/t.co\/loftKNoJva",
+							"display_url": "pic.twitter.com\/loftKNoJva",
+							"expanded_url": "https:\/\/twitter.com\/bronwynnewilton\/status\/1262117919623913474\/photo\/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 563,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 994,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1696,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 29748981,
+					"id_str": "29748981",
+					"name": "Bronwynne Wilton",
+					"screen_name": "bronwynnewilton",
+					"location": "Guelph, Ontario",
+					"description": "No particular order: passionate about agriculture, sustainability, community engagement, higher education, knowledge transfer, research.  Opinions are my own.",
+					"url": "https:\/\/t.co\/LoPbFpylMl",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https:\/\/t.co\/LoPbFpylMl",
+									"expanded_url": "https:\/\/www.wiltongroup.ca\/",
+									"display_url": "wiltongroup.ca",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2114,
+					"friends_count": 2490,
+					"listed_count": 80,
+					"created_at": "Wed Apr 08 16:07:18 +0000 2009",
+					"favourites_count": 8734,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 4800,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "B2DFDA",
+					"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme13\/bg.gif",
+					"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme13\/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/911258154813480960\/GOYc6Rpq_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/911258154813480960\/GOYc6Rpq_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/29748981\/1543333221",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": null,
+					"follow_request_sent": null,
+					"notifications": null,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1837,
+				"favorite_count": 33455,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1837,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 04:52:01 +0000 2020",
+			"id": 1265143629678432257,
+			"id_str": "1265143629678432257",
+			"full_text": "RT @bronwynnewilton: So this happened during our quarantine:                                        Me: “I wish we had a spot to grow veggi…",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bronwynnewilton",
+						"name": "Bronwynne Wilton",
+						"id": 29748981,
+						"id_str": "29748981",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717370914216611840,
+				"id_str": "717370914216611840",
+				"name": "CNWarforged",
+				"screen_name": "CNWarforged",
+				"location": "Portland, USA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 305,
+				"listed_count": 0,
+				"created_at": "Tue Apr 05 15:18:48 +0000 2016",
+				"favourites_count": 10808,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/862041452460756994\/hlZ62_pm_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/862041452460756994\/hlZ62_pm_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun May 17 20:28:55 +0000 2020",
+				"id": 1262117919623913474,
+				"id_str": "1262117919623913474",
+				"full_text": "So this happened during our quarantine:                                        Me: “I wish we had a spot to grow veggies, but between the dog and the bunnies, there’s really no point”.                               Hubby: “hold my beer”. https:\/\/t.co\/loftKNoJva",
+				"truncated": false,
+				"display_text_range": [
+					0,
+					237
+				],
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1262117908932673539,
+							"id_str": "1262117908932673539",
+							"indices": [
+								238,
+								261
+							],
+							"media_url": "http:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"media_url_https": "https:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"url": "https:\/\/t.co\/loftKNoJva",
+							"display_url": "pic.twitter.com\/loftKNoJva",
+							"expanded_url": "https:\/\/twitter.com\/bronwynnewilton\/status\/1262117919623913474\/photo\/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 563,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 994,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1696,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1262117908932673539,
+							"id_str": "1262117908932673539",
+							"indices": [
+								238,
+								261
+							],
+							"media_url": "http:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"media_url_https": "https:\/\/pbs.twimg.com\/media\/EYPxjRqXQAMFqOB.jpg",
+							"url": "https:\/\/t.co\/loftKNoJva",
+							"display_url": "pic.twitter.com\/loftKNoJva",
+							"expanded_url": "https:\/\/twitter.com\/bronwynnewilton\/status\/1262117919623913474\/photo\/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 563,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 994,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1696,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 29748981,
+					"id_str": "29748981",
+					"name": "Bronwynne Wilton",
+					"screen_name": "bronwynnewilton",
+					"location": "Guelph, Ontario",
+					"description": "No particular order: passionate about agriculture, sustainability, community engagement, higher education, knowledge transfer, research.  Opinions are my own.",
+					"url": "https:\/\/t.co\/LoPbFpylMl",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https:\/\/t.co\/LoPbFpylMl",
+									"expanded_url": "https:\/\/www.wiltongroup.ca\/",
+									"display_url": "wiltongroup.ca",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2114,
+					"friends_count": 2490,
+					"listed_count": 80,
+					"created_at": "Wed Apr 08 16:07:18 +0000 2009",
+					"favourites_count": 8734,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 4800,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "B2DFDA",
+					"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme13\/bg.gif",
+					"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme13\/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/911258154813480960\/GOYc6Rpq_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/911258154813480960\/GOYc6Rpq_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/29748981\/1543333221",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": null,
+					"follow_request_sent": null,
+					"notifications": null,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1837,
+				"favorite_count": 33455,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1837,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 02:02:37 +0000 2020",
+			"id": 1265101001687785473,
+			"id_str": "1265101001687785473",
+			"full_text": "Nights views...... sorry, I’m know like most of you, I’m going  bat shit crazy with #quarantine and a sense of “normal” so this is my release. Whatever your release is, know that you have… https:\/\/t.co\/Fipo8wlG0n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "quarantine",
+						"indices": [
+							84,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https:\/\/t.co\/Fipo8wlG0n",
+						"expanded_url": "https:\/\/www.instagram.com\/p\/CAojMFUH-u_GYUBeAmvPIUZVQxJDob__N1dPLI0\/?igshid=kr0nsjcro64k",
+						"display_url": "instagram.com\/p\/CAojMFUH-u_G…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/instagram.com\" rel=\"nofollow\">Instagram<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32382988,
+				"id_str": "32382988",
+				"name": "Greg McCarthy",
+				"screen_name": "GMcCarthy",
+				"location": "Guelph, ON",
+				"description": "Marketing, Account Manager & Training Professional | Story Teller | Marketer | Social Enabler | Curve-ball Hitter! Life's not a rehearsal - go out and live it!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 305,
+				"friends_count": 774,
+				"listed_count": 37,
+				"created_at": "Fri Apr 17 12:22:06 +0000 2009",
+				"favourites_count": 1461,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/705771069689499648\/ZR6ghWJJ_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/705771069689499648\/ZR6ghWJJ_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/32382988\/1381563749",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					43.50755,
+					-80.19167572
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					-80.19167572,
+					43.50755
+				]
+			},
+			"place": {
+				"id": "2740624a2d391c5c",
+				"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/2740624a2d391c5c.json",
+				"place_type": "city",
+				"name": "Guelph",
+				"full_name": "Guelph, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.326879,
+								43.473802
+							],
+							[
+								-80.153377,
+								43.473802
+							],
+							[
+								-80.153377,
+								43.594596
+							],
+							[
+								-80.326879,
+								43.594596
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 01:37:46 +0000 2020",
+			"id": 1265094747204603904,
+			"id_str": "1265094747204603904",
+			"full_text": "I’ll be the first one to say it, truly grateful for quarantine.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276350842,
+				"id_str": "276350842",
+				"name": "emily.",
+				"screen_name": "emilyalharazi",
+				"location": "Guelph, Ontario",
+				"description": "Our thoughts become our reality.",
+				"url": "https:\/\/t.co\/ZOhS4qoDTt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/ZOhS4qoDTt",
+								"expanded_url": "https:\/\/www.youtube.com\/emilydianeslife",
+								"display_url": "youtube.com\/emilydianeslife",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 162,
+				"friends_count": 195,
+				"listed_count": 2,
+				"created_at": "Sun Apr 03 05:22:53 +0000 2011",
+				"favourites_count": 6601,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "828591",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1263512889064853506\/C2pUFO63_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1263512889064853506\/C2pUFO63_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/276350842\/1560137043",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 00:12:20 +0000 2020",
+			"id": 1265073246405345283,
+			"id_str": "1265073246405345283",
+			"full_text": "@brithume @BruceRheins @SWKoontz @greenpatchgrp Wow, you're dumb.\n\nThat's exactly when you should wear a mask.  They're meant to prevent you spreading the virus, not you catching it.  If he's been in quarantine, he's been exposed and this thing can remain active for weeks.  \n\nHe's protecting others ... why is this hard?",
+			"truncated": false,
+			"display_text_range": [
+				48,
+				321
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brithume",
+						"name": "Brit Hume",
+						"id": 112047805,
+						"id_str": "112047805",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "BruceRheins",
+						"name": "Bruce Rheins",
+						"id": 15723806,
+						"id_str": "15723806",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"screen_name": "SWKoontz",
+						"name": "Swk",
+						"id": 1573740578,
+						"id_str": "1573740578",
+						"indices": [
+							23,
+							32
+						]
+					},
+					{
+						"screen_name": "greenpatchgrp",
+						"name": "Carolina Blue",
+						"id": 19084347,
+						"id_str": "19084347",
+						"indices": [
+							33,
+							47
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+			"in_reply_to_status_id": 1265059602640646144,
+			"in_reply_to_status_id_str": "1265059602640646144",
+			"in_reply_to_user_id": 112047805,
+			"in_reply_to_user_id_str": "112047805",
+			"in_reply_to_screen_name": "brithume",
+			"user": {
+				"id": 1563851,
+				"id_str": "1563851",
+				"name": "Doug Horne",
+				"screen_name": "Wendell25",
+				"location": "Guelph, Ontario, Canada",
+				"description": "Librarian Metalhead, I block idiots.",
+				"url": "http:\/\/t.co\/eg60ROxCPf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http:\/\/t.co\/eg60ROxCPf",
+								"expanded_url": "http:\/\/doughorne.wordpress.com",
+								"display_url": "doughorne.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 266,
+				"friends_count": 454,
+				"listed_count": 5,
+				"created_at": "Tue Mar 20 00:12:13 +0000 2007",
+				"favourites_count": 30,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8236,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/73525143\/s674470201_788901_1425_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/73525143\/s674470201_788901_1425_normal.jpg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue May 26 00:08:45 +0000 2020",
+			"id": 1265072342956249088,
+			"id_str": "1265072342956249088",
+			"full_text": "One of my fav hobbies during quarantine is to annoy @Fuuzail 24\/7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Fuuzail",
+						"name": "FUZÆL",
+						"id": 350590732,
+						"id_str": "350590732",
+						"indices": [
+							52,
+							60
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 848608344147361793,
+				"id_str": "848608344147361793",
+				"name": "Mussab",
+				"screen_name": "Mussab_Imran",
+				"location": "Guelph, Canada",
+				"description": "pineapples go on pizza\n🇵🇰",
+				"url": "https:\/\/t.co\/ltrx05AgkB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https:\/\/t.co\/ltrx05AgkB",
+								"expanded_url": "https:\/\/www.instagram.com\/mussab_imran\/",
+								"display_url": "instagram.com\/mussab_imran\/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89,
+				"friends_count": 155,
+				"listed_count": 1,
+				"created_at": "Sun Apr 02 18:49:30 +0000 2017",
+				"favourites_count": 3234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1261795014495133696\/_53JLwnV_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1261795014495133696\/_53JLwnV_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/848608344147361793\/1585836106",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon May 25 22:08:10 +0000 2020",
+			"id": 1265042000010674177,
+			"id_str": "1265042000010674177",
+			"full_text": "RT @lexxcomber: ordering food on skip the dishes is my quarantine hobby",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lexxcomber",
+						"name": "lex",
+						"id": 968706526788669440,
+						"id_str": "968706526788669440",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1011382183,
+				"id_str": "1011382183",
+				"name": "dianna martinez",
+				"screen_name": "diannamarie97",
+				"location": "Canada ",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163,
+				"friends_count": 137,
+				"listed_count": 0,
+				"created_at": "Fri Dec 14 15:33:43 +0000 2012",
+				"favourites_count": 1850,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1075,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1265415074652606464\/KyGSSB6y_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1265415074652606464\/KyGSSB6y_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1011382183\/1578879688",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun May 24 23:06:51 +0000 2020",
+				"id": 1264694378569830400,
+				"id_str": "1264694378569830400",
+				"full_text": "ordering food on skip the dishes is my quarantine hobby",
+				"truncated": false,
+				"display_text_range": [
+					0,
+					55
+				],
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 968706526788669440,
+					"id_str": "968706526788669440",
+					"name": "lex",
+					"screen_name": "lexxcomber",
+					"location": "Guelph, Ontario",
+					"description": "♏︎",
+					"url": "https:\/\/t.co\/OITPg6pseT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https:\/\/t.co\/OITPg6pseT",
+									"expanded_url": "http:\/\/instagram.com\/champagneleks",
+									"display_url": "instagram.com\/champagneleks",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 213,
+					"friends_count": 275,
+					"listed_count": 0,
+					"created_at": "Wed Feb 28 04:36:48 +0000 2018",
+					"favourites_count": 6356,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1113,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1217882146632871938\/OJ78zSog_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1217882146632871938\/OJ78zSog_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/968706526788669440\/1571708405",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": null,
+					"follow_request_sent": null,
+					"notifications": null,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.111,
+		"max_id": 1265457985289170944,
+		"max_id_str": "1265457985289170944",
+		"next_results": "?max_id=1265042000010674176&q=quarantine&geocode=43.499050%2C-80.241640%2C20km&count=20&include_entities=1",
+		"query": "quarantine",
+		"refresh_url": "?since_id=1265457985289170944&q=quarantine&geocode=43.499050%2C-80.241640%2C20km&include_entities=1",
+		"count": 20,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}
